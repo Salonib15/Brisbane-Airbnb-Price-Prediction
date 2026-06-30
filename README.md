@@ -13,7 +13,7 @@ The goal of this project is to build a regression model that accurately predicts
 ```
 .
 ├── Airbnb_Brisbane.ipynb       # Main notebook (EDA, cleaning, modelling)
-├── submission_hybrid.csv       # Final Kaggle submission
+├── hybrid.csv                  # Final Kaggle submission
 └── README.md
 ```
 
